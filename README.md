@@ -23,7 +23,6 @@ Leave holographic notes in the world around you, just like magic! 🌍
 
 1. Build & Run on your AR-capable device.
 2. Start sticking your thoughts in the real world!
-3. (ADD MORE LATER)
 
 ## 🧰 Tech Stack
 
